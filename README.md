@@ -1,0 +1,1 @@
+Problem Statement: You are given n points in a plane. Whenever I find three points that are collinear, I draw a line through them. How many different lines are there? Come up with an efficient algorithm. First, explain your solution. Then provide a code written in C++ or JAVA or python. Or you can just give me a clearly written pseudo code.
